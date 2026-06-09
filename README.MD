@@ -6,6 +6,8 @@ Estoy construyendo proyectos propios alrededor de modelos locales con trazabilid
 
 En paralelo, soy docente de IA aplicada para perfiles no técnicos. Intento enseñar una IA clara, sencilla, alejada del hype y centrada en uso práctico, criterio técnico y límites reales.
 
+🌐 [Portfolio / CV online](https://josegodev.github.io/cv_portfolio/)
+
 ## 🚀 Proyectos destacados
 
 ### LocalEsp (repo privado)
