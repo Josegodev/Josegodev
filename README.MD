@@ -23,16 +23,6 @@ Sistema local de análisis documental basado en Graph-RAG sobre SQLite.
 
 Objetivo: convertir documentación técnica en una base consultable, trazable y operable sin depender ciegamente de modelos externos.
 
-Stack:
-
-- Python
-- FastAPI
-- SQLite
-- Graph-RAG
-- Ollama
-- Frontend mínimo
-- Evaluaciones RAG/modelo
-
 ### NúcleoChat / LOCALES
 Gateway LLM local con FastAPI, RAG, trazas, métricas y evaluación de ejecuciones.
 
@@ -57,13 +47,12 @@ Me interesa especialmente llevar la IA desde el prototipo hacia sistemas más op
 - Qué recuperación documental se utilizó
 - Cómo se puede auditar una respuesta
 
-## 🛠️ Stack actual
+## 🛠️ Backend / AI Operations
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🧠 IA / LLMOps
@@ -73,7 +62,14 @@ Me interesa especialmente llevar la IA desde el prototipo hacia sistemas más op
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+## 🏭 Ingeniería industrial / CAD
+
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![Navisworks](https://img.shields.io/badge/Navisworks-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+
 ## 🧮 Base técnica previa
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB/Octave-0076A8?style=for-the-badge&logo=octave&logoColor=white)
+![MATLAB/Octave](https://img.shields.io/badge/MATLAB%2FOctave-0076A8?style=for-the-badge&logo=octave&logoColor=white)
