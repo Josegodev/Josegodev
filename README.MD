@@ -13,8 +13,13 @@ Sistema local de análisis documental basado en Graph-RAG sobre SQLite.
 
 Objetivo: convertir documentación técnica en una base consultable, trazable y operable sin depender ciegamente de modelos externos.
 
+<p align="center">
+  <img src="assets/localesp.png" alt="Fundamentos de IA para pymes y personas sin perfil técnico" width="100%">
+</p>
+
 ### NúcleoChat / LOCALES
 Gateway LLM local con FastAPI, RAG, trazas, métricas y evaluación de ejecuciones.
+
 
 ## 🧭 Enfoque técnico
 
