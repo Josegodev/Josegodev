@@ -1,8 +1,10 @@
-# 👋 Hola, soy José González
+## 👋 Hola, soy Jose González
 
-Ingeniero de Materiales en transición hacia Backend, AI Operations y LLMOps.
+Ingeniero con experiencia industrial y aeroespacial, actualmente orientado a Backend, AI Operations y LLMOps.
 
-Vengo de entornos industriales y aeroespaciales, donde he trabajado con documentación técnica, fabricación, mantenimiento, trazabilidad, control de configuración y validación de procesos.
+Estoy construyendo proyectos propios alrededor de Python, FastAPI, Docker, SQLite, RAG, modelos locales, trazabilidad y evaluación de sistemas LLM.
+
+En paralelo, soy docente de IA aplicada para perfiles no técnicos. Intento enseñar una IA clara, sencilla, alejada del hype y centrada en uso práctico, criterio técnico y límites reales.
 
 ## 🚀 Proyectos destacados
 
