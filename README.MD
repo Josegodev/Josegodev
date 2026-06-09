@@ -2,7 +2,7 @@
 
 Ingeniero con experiencia industrial y aeroespacial, actualmente orientado a Backend, AI Operations y LLMOps.
 
-Estoy construyendo proyectos propios alrededor de Python, FastAPI, Docker, SQLite, RAG, modelos locales, trazabilidad y evaluación de sistemas LLM.
+Estoy construyendo proyectos propios alrededor de modelos locales con trazabilidad y evaluación de sistemas.
 
 En paralelo, soy docente de IA aplicada para perfiles no técnicos. Intento enseñar una IA clara, sencilla, alejada del hype y centrada en uso práctico, criterio técnico y límites reales.
 
