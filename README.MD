@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/frontal.jpg" alt="Fundamentos de IA para pymes y personas sin perfil técnico" width="100%">
+</p>
+
 ## 👋 Hola, soy Jose González
 
 Ingeniero con experiencia industrial y aeroespacial, actualmente orientado a Backend, AI Operations y LLMOps.
