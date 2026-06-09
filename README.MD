@@ -57,21 +57,23 @@ Me interesa especialmente llevar la IA desde el prototipo hacia sistemas más op
 - Qué recuperación documental se utilizó
 - Cómo se puede auditar una respuesta
 
-## 🛠️ Tecnologías que estoy trabajando
+## 🛠️ Stack actual
 
-```text
-Python · FastAPI · SQLite · Docker · GitHub · Ollama · OpenAI API
-RAG · Graph-RAG · APIs REST · Logging · Observabilidad · CI/CD básico
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 🧠 IA / LLMOps
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## 🧮 Base técnica previa
 
-Antes de orientarme hacia Backend, RAG y operación de sistemas IA, tuve contacto con programación científica y modelización computacional durante mi formación en ingeniería.
-
-Trabajé con:
-
-- C aplicado a ejercicios de modelización numérica
-- MATLAB/Octave para simulación, cálculo técnico y análisis de resultados
-- Métodos computacionales aplicados a problemas de ingeniería
-- Interpretación de resultados experimentales y modelos físicos
-
-Esa base me ayuda a entender la IA no solo como una herramienta de generación de texto, sino como parte de un flujo más amplio de cálculo, validación, trazabilidad y análisis técnico.
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB/Octave-0076A8?style=for-the-badge&logo=octave&logoColor=white)
