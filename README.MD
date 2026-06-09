@@ -14,15 +14,6 @@ Objetivo: convertir documentación técnica en una base consultable, trazable y 
 ### NúcleoChat / LOCALES
 Gateway LLM local con FastAPI, RAG, trazas, métricas y evaluación de ejecuciones.
 
-Incluye:
-
-- Selector de modelos
-- Métricas de latencia y tokens
-- Trazabilidad por ejecución
-- Integración con Ollama y OpenAI
-- Evals básicos
-- Frontend experimental
-
 ## 🧭 Enfoque técnico
 
 Me interesa especialmente llevar la IA desde el prototipo hacia sistemas más operables:
