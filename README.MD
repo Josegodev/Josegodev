@@ -4,18 +4,6 @@ Ingeniero de Materiales en transición hacia Backend, AI Operations y LLMOps.
 
 Vengo de entornos industriales y aeroespaciales, donde he trabajado con documentación técnica, fabricación, mantenimiento, trazabilidad, control de configuración y validación de procesos.
 
-Actualmente estoy construyendo proyectos propios alrededor de:
-
-- Python
-- FastAPI
-- Docker
-- RAG
-- SQLite
-- Modelos locales con Ollama
-- Observabilidad de sistemas LLM
-- Evaluación de respuestas
-- Despliegues reproducibles
-
 ## 🚀 Proyectos destacados
 
 ### LocalEsp
